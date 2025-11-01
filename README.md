@@ -5,15 +5,15 @@ Mortal Kombat Deception
 <!--
 Replace with your repository's URL.
 -->
-[Build Status]: https://github.com/zeldaret/tww/actions/workflows/build.yml/badge.svg
-[actions]: https://github.com/zeldaret/tww/actions/workflows/build.yml
+[Build Status]: https://github.com/HyperHaxStudios/MKD/actions/workflows/build.yml/badge.svg
+[actions]: https://github.com/HyperHaxStudios/MKD/actions/workflows/build.yml
 <!--
 decomp.dev progress badges
 See https://decomp.dev/api for an API overview.
 -->
-[Code Progress]: https://decomp.dev/zeldaret/tww.svg?mode=shield&measure=code&label=Code
-[Data Progress]: https://decomp.dev/zeldaret/tww.svg?mode=shield&measure=data&label=Data
-[progress]: https://decomp.dev/zeldaret/tww
+[Code Progress]: https://decomp.dev/HyperHaxStudios/MKD.svg?mode=shield&measure=code&label=Code
+[Data Progress]: https://decomp.dev/HyperHaxStudios/MKD.svg?mode=shield&measure=data&label=Data
+[progress]: https://decomp.dev/HyperHaxStudios/MKD
 
 A work-in-progress decompilation of Mortal Kombat Deception.
 
